@@ -1,0 +1,3 @@
+[submodule "Centom"]
+	path = Centom
+	url = https://github.com/smmir-cent/Centom.git
