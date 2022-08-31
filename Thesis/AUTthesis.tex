@@ -22,12 +22,18 @@
 %      کلمه phd را قرار دهید. کلیه تنظیمات لازم، به طور خودکار، اعمال می‌شود.
 %%% !TEX TS-program = XeLaTeX
 \documentclass[oneside,bsc,12pt]{AUTthesis}
+\setcounter{tocdepth}{4}
+\setcounter{secnumdepth}{4}
+
 %       فایل commands.tex را حتماً به دقت مطالعه کنید؛ چون دستورات مربوط به فراخوانی بسته زی‌پرشین 
 %       و دیگر بسته‌ها و ... در این فایل قرار دارد و بهتر است که با نحوه استفاده از آنها آشنا شوید. توجه شود برای نسخه نهایی پایان‌نامه حتماً hyperref را 
 %        غیرفعال کنید.
 \usepackage{perpage} %the perpage package
 \usepackage{hyperref}
 \usepackage{url}
+\usepackage{amsfonts}
+\usepackage{booktabs}
+\usepackage{siunitx}
 \MakePerPage{footnote}
 
 \input{commands}
