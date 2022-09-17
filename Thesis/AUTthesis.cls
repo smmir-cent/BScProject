@@ -213,7 +213,7 @@
 \font\supervisorfont=cmbxti10
 
 \newcommand{\latinvtitle}{%
-\if@bscthesis \relax
+\if@mscthesis \relax
 \else
 \relax
 %-------------------------------------------------------------------------- table of En thesis
@@ -227,8 +227,8 @@
 \bfseries
 \fontsize{16pt}{17pt}\selectfont\@latinfaculty\space 
 \vskip 5mm
- \if@mscthesis
-M. Sc. Thesis\par
+ \if@bscthesis
+B.Sc. Thesis\par
 \else
 Ph. D Thesis\par
 \fi\par
