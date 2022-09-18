@@ -5,26 +5,44 @@
 \section{تست و بررسی نیازمندی‌های کارکردی}
 
 \subsection{تست کشف شبکه}
-برای تست کشف شبکه با استفاده از ماشین‌های مجازی\LTRfootnote{\lr{Virtual Machine (VM)}} و سوئیچ‌های مجازی\LTRfootnote{\lr{Virtual Switch}}، شبکه‌ای طبق \cref{fig.51} طراحی شد. حال توسط ماشین مجازی که سامانه درحال اجرای آن است، کشف شبکه صورت می‌گیرد. نتیجه آن در \cref{fig.52} قابل مشاهده است.
+برای تست کشف شبکه با استفاده از ماشین‌های مجازی\LTRfootnote{\lr{Virtual Machine (VM)}} و سوئیچ‌های مجازی\LTRfootnote{\lr{Virtual Switch}}، برای دو سناریو مورد آزمون تولید شد. به عبارتی دو شبکه طبق \cref{fig.51} و \cref{fig.52} طراحی شد. سپس با استفاده از قابلیت کشف شبکه سامانه خروجی این دو سناریو دریافت شد، که در \cref{fig.511} و \cref{fig.521} قابل مشاهده است.
+
+
+% برای تست کشف شبکه با استفاده از ماشین‌های مجازی\LTRfootnote{\lr{Virtual Machine (VM)}} و سوئیچ‌های مجازی\LTRfootnote{\lr{Virtual Switch}}، شبکه‌ای طبق \cref{fig.51} طراحی شد. حال توسط ماشین مجازی که سامانه درحال اجرای آن است، کشف شبکه صورت می‌گیرد. نتیجه آن در \cref{fig.52} قابل مشاهده است.
 
 
 \begin{figure}[!h]
-    \centering\includegraphics[scale=.38]{./topo-test}
-    \caption{تصویر توپولوژی شبکه‌ای جهت تست}\label{fig.51}
+    \centering\includegraphics[scale=.38]{./topo-test1}
+    \caption{تصویر توپولوژی شبکه اول جهت تست}\label{fig.51}
 \end{figure}
 
 
 \begin{figure}[!h]
-    \centering\includegraphics[scale=.38]{./topo-test-result}
-    \caption{تصویر توپولوژی بدست آمده از سامانه}\label{fig.52}
+    \centering\includegraphics[scale=.38]{./topo-test2}
+    \caption{تصویر توپولوژی شبکه دوم جهت تست}\label{fig.52}
 \end{figure}
+
+
+
+
+\begin{figure}[!h]
+    \centering\includegraphics[scale=.38]{./topo-test1-result}
+    \caption{تصویر توپولوژی بدست آمده برای شبکه اول}\label{fig.511}
+\end{figure}
+
+
+\begin{figure}[!h]
+    \centering\includegraphics[scale=.38]{./topo-test2-result}
+    \caption{تصویر توپولوژی بدست آمده برای شبکه دوم}\label{fig.521}
+\end{figure}
+
 
 
 
 
 \cleardoublepage
 
-همانطور که مشاهده می‌شود، نتیجه بدست آمده با توپولوژی طراحی شده از قبل کاملا مطابقت می‌نماید.
+همانطور که مشاهده می‌شود، نتایج بدست آمده با توپولوژی‌های طراحی شده از قبل کاملا مطابقت می‌نماید.
 
 \subsection{تست تنظیمات شبکه}
 
@@ -86,7 +104,7 @@
 
 \subsection{تست مدت زمان کشف شبکه}
 
-دقیقا همان تستی که در بخش نیازمندی‌های کارکردی برای تست کشف شبکه انجام شد در مدت زمان  انجام شد. این مقدار کمتر از دو دقیقه (مقدار مطلوب) است.
+دقیقا همان تستی که در بخش نیازمندی‌های کارکردی برای تست کشف شبکه انجام شد، کیفیت (مدت زمان) آن در اینجا درنظر گرفته می‌شود. مدت زمان "" دقیقه برای سناریوی اول و مدت زمان "" دقیقه برای سناریوی دوم ثبت شد. که البته این مقادیر کمتر از دو دقیقه (مقدار مطلوب) است.
 
 \subsection{بررسی واسط کاربری مطلوب تحت وب}
 
