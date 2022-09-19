@@ -1,134 +1,53 @@
-%%%%%%
-\chapter*{ واژه‌نامه‌ی انگلیسی به فارسی}
-\pagestyle{style9}
-\lhead{\thepage}\rhead{واژه‌نامه‌ی انگلیسی به فارسی}
-\addcontentsline{toc}{chapter}{واژه‌نامه‌ی انگلیسی به فارسی}
-
-\LTRmulticolcolumns
-\begin{multicols}{2}
-{\hfill\bf  \lr{A}}
-%%\vspace*{1.5mm}
-
 \englishTOfarsi{Angular}{انگولار}
 \englishTOfarsi{Application layer}{لایه کاربرد}
-
-\vspace*{3mm}
-{\hfill\bf   \lr{B}}
-%%\vspace*{1.5mm}
 
 \englishTOfarsi{Back-end}{سمت سرور}
 \englishTOfarsi{Broadcast}{همه‌پخشی}
 
-\vspace*{3mm}
-{\hfill\bf   \lr{C}}
-%%\vspace*{1.5mm}
-
 \englishTOfarsi{Central Processing Unit (CPU)}{پردازنده مرکزی}
 \englishTOfarsi{Cisco Discovery Protocol (CDP)}{پروتکل کشف سیسکو}
 \englishTOfarsi{Container}{کانتینر}
-
-\vspace*{3mm}
-{\hfill\bf   \lr{D}}
-%%\vspace*{1.5mm}
 
 \englishTOfarsi{Datadog}{دیتاداگ}
 \englishTOfarsi{Debian}{دبین}
 \englishTOfarsi{Decode}{کدگشایی}
 \englishTOfarsi{Django}{جنگو}
 
-\vspace*{3mm}
-{\hfill\bf   \lr{E}}
-%%\vspace*{1.5mm}
-
 \englishTOfarsi{Email}{پست الکترونیکی}
 \englishTOfarsi{Encode}{کدگذاری}
 \englishTOfarsi{Erlang}{ارلنگ}
-
-\vspace*{3mm}
-{\hfill\bf   \lr{F}}
-%%\vspace*{1.5mm}
 
 \englishTOfarsi{Flask}{فلسک}
 \englishTOfarsi{Framework}{چارچوب}
 \englishTOfarsi{Full Stack}{همه‌جانبه}
 \englishTOfarsi{Functional requirements}{نیازمندی‌های کارکردی}
 
-
-% \vspace*{3mm}
-% {\hfill\bf   \lr{G}}
-% %%\vspace*{1.5mm}
-
-% \englishTOfarsi{Group}{گروه}
-
-\vspace*{3mm}
-{\hfill\bf   \lr{H}}
-%%\vspace*{1.5mm}
-
 \englishTOfarsi{Hexadecimal}{هگزادسیمال}
 \englishTOfarsi{Host}{میزبان}
 
-\vspace*{3mm}
-{\hfill\bf   \lr{I}}
-%%\vspace*{1.5mm}
-
 \englishTOfarsi{In-Memory Database}{پایگاه‌داده‌ در حافظه اصلی}
 
-\vspace*{3mm}
-{\hfill\bf   \lr{J}}
-%%\vspace*{1.5mm}
-
 \englishTOfarsi{Javascript}{جاوا اسکریپت}
-
-
-\vspace*{3mm}
-{\hfill\bf   \lr{L}}
-%%\vspace*{1.5mm}
 
 \englishTOfarsi{Link Layer Discovery Protocol (LLDP)}{پروتکل کشف لایه پیوند}
 \englishTOfarsi{Linux}{لینوکس}
 
-\vspace*{3mm}
-{\hfill\bf   \lr{M}}
-%%\vspace*{1.5mm}
-
 \englishTOfarsi{Methodology}{روش}
 \englishTOfarsi{Monitoring}{پایش}
-
-\vspace*{3mm}
-{\hfill\bf   \lr{N}}
-%%\vspace*{1.5mm}
 
 \englishTOfarsi{Network Discovery}{کشف شبکه}
 \englishTOfarsi{Node.js}{نودجی‌اس}
 \englishTOfarsi{Non functional requirements}{نیازمندی‌های غیرکارکردی}
 \englishTOfarsi{Notification}{اعلان}
 
-\vspace*{3mm}
-{\hfill\bf   \lr{O}}
-%%\vspace*{1.5mm}
-
 \englishTOfarsi{Object Identifier}{شناسه شی}
 \englishTOfarsi{Object–relational mapping (ORM)}{نگاشت رابطه به شی}
 \englishTOfarsi{Open-Source}{متن‌باز}
 \englishTOfarsi{Other}{متفرقه}
 
-\vspace*{3mm}
-{\hfill\bf   \lr{P}}
-%%\vspace*{1.5mm}
-
 \englishTOfarsi{Ping}{پینگ}
 \englishTOfarsi{Process}{فرآیند}
 \englishTOfarsi{Python}{پایتون}
-
-% \vspace*{3mm}
-% {\hfill\bf   \lr{Q}}
-% %%\vspace*{1.5mm}
-
-% \englishTOfarsi{Quotient graph}{گراف خارج‌قسمتی}
-
-\vspace*{3mm}
-{\hfill\bf   \lr{R}}
-%%\vspace*{1.5mm}
 
 \englishTOfarsi{Random-access memory (RAM)}{حافظه اصلی}
 \englishTOfarsi{Rate}{نرخ نمونه‌برداری}
@@ -139,10 +58,6 @@
 \englishTOfarsi{Relational Database}{پایگاه‌داده‌ رابطه‌ای}
 \englishTOfarsi{Router}{مسیریاب}
 
-\vspace*{3mm}
-{\hfill\bf   \lr{S}}
-%%\vspace*{1.5mm}
-
 \englishTOfarsi{Server}{سرور}
 \englishTOfarsi{Session}{نشست}
 \englishTOfarsi{Software as a service}{نرم‌افزار مبتنی بر ابر}
@@ -152,11 +67,6 @@
 \englishTOfarsi{Subnet Mask}{نقاب زیر شبکه}
 \englishTOfarsi{Switch}{سوئیچ}
 
-
-\vspace*{3mm}
-{\hfill\bf   \lr{T}}
-%%\vspace*{1.5mm}
-
 \englishTOfarsi{Technology}{فناوری}
 \englishTOfarsi{Test case}{مورد آزمون}
 \englishTOfarsi{Thread}{نخ}
@@ -164,16 +74,7 @@
 \englishTOfarsi{Two-way Data Binding}{اتصال داده دو طرفه}
 \englishTOfarsi{Typescript}{تایپ‌اسکریپت}
 
-
-\vspace*{3mm}
-{\hfill\bf   \lr{U}}
-%%\vspace*{1.5mm}
-
 \englishTOfarsi{Uninterruptible Power Supply (UPS)}{دستگاه منبع تغذیه اضطراری}
-
-\vspace*{3mm}
-{\hfill\bf   \lr{V}}
-%%\vspace*{1.5mm}
 
 \englishTOfarsi{V8 JavaScript engine}{موتور جاوا اسکریپت وی هشت}
 \englishTOfarsi{View}{نمایش}
@@ -182,9 +83,4 @@
 \englishTOfarsi{Virtual Switch}{سوئیچ مجازی}
 \englishTOfarsi{Vue.js}{ویو جی‌اس}
 
-\vspace*{3mm}
-{\hfill\bf   \lr{Z}}
-%%\vspace*{1.5mm}
 \englishTOfarsi{Zabbix}{زبیکس}
-
-\end{multicols}

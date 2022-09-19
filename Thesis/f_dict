@@ -1,31 +1,9 @@
-%
-\chapter*{واژه‌نامه‌ی فارسی به انگلیسی}
-\pagestyle{style9}
-
-\addcontentsline{toc}{chapter}{واژه‌نامه‌ی فارسی به انگلیسی}
-%%%%%%
-\begin{multicols*}{2}
-
-{\bf آ}
-\vspace*{3mm}
-
-
 \farsiTOenglish{اتصال داده دو طرفه}{Two-way Data Binding}
 \farsiTOenglish{ارلنگ}{Erlang}
 \farsiTOenglish{اعلان}{Notification}
 \farsiTOenglish{انگولار}{Angular}
 
-
-\vspace*{3mm}
-{\bf ب}
-\vspace*{3mm}
-
 \farsiTOenglish{بی‌درنگ}{Real-time}
-
-
-\vspace*{3mm}
-{\bf پ}
-%%\vspace*{3mm}
 
 \farsiTOenglish{پایتون}{Python}
 \farsiTOenglish{پایش}{Monitoring}
@@ -37,74 +15,28 @@
 \farsiTOenglish{پست الکترونیکی}{Email}
 \farsiTOenglish{پینگ}{Ping}
 
-
-
-\vspace*{3mm}
-{\bf ت}
-%%\vspace*{3mm}
-
 \farsiTOenglish{تایپ‌اسکریپت}{Typescript}
 \farsiTOenglish{تله}{Trap}
 
-
-\vspace*{3mm}
-{\bf ث}
-%%\vspace*{3mm}
-
 \farsiTOenglish{ثبت‌نام}{Register}
-
-\vspace*{3mm}
-{\bf ج}
-%%\vspace*{3mm}
 
 \farsiTOenglish{جاوا اسکریپت}{Javascript}
 \farsiTOenglish{جنگو}{Django}
 
-
-
-\vspace*{3mm}
-{\bf چ}
-%%\vspace*{3mm}
-
-
 \farsiTOenglish{چارچوب}{Framework}
 
-\vspace*{3mm}
-{\bf ح}
-%%\vspace*{3mm}
-
 \farsiTOenglish{حافظه اصلی}{Random-access memory (RAM)}
-
-\vspace*{3mm}
-{\bf د}
-%%\vspace*{3mm}
 
 \farsiTOenglish{دبین}{Debian}
 \farsiTOenglish{دستگاه منبع تغذیه اضطراری}{Uninterruptible Power Supply (UPS)}
 \farsiTOenglish{دیتاداگ}{Datadog}
-
-
-\vspace*{3mm}
-{\bf ر}
-%%\vspace*{3mm}
-
 
 \farsiTOenglish{ردیس}{Redis}
 \farsiTOenglish{رشته}{String}
 \farsiTOenglish{روش}{Methodology}
 \farsiTOenglish{ری‌اکت}{React}
 
-\vspace*{3mm}
-{\bf ز}
-%%\vspace*{3mm}
-
-
 \farsiTOenglish{زبیکس}{Zabbix}
-
-
-\vspace*{3mm}
-{\bf س}
-%%\vspace*{3mm}
 
 \farsiTOenglish{سرور}{Server}
 \farsiTOenglish{سمت سرور}{Back-end}
@@ -112,44 +44,19 @@
 \farsiTOenglish{سوئیچ}{Switch}
 \farsiTOenglish{سوئیچ مجازی}{Virtual Switch}
 
-
-
-\vspace*{3mm}
-{\bf ش}
-%%\vspace*{3mm}
-
 \farsiTOenglish{شناسه شی}{Object Identifier}
-
-
-\vspace*{3mm}
-{\bf ف}
-%%\vspace*{3mm}
 
 \farsiTOenglish{فرآیند}{Process}
 \farsiTOenglish{فلسک}{Flask}
 \farsiTOenglish{فناوری}{Technology}
-
-
-
-\vspace*{3mm}
-{\bf ک}
-%%\vspace*{3mm}
 
 \farsiTOenglish{کانتینر}{Container}
 \farsiTOenglish{کدگذاری}{Encode}
 \farsiTOenglish{کدگشایی}{Decode}
 \farsiTOenglish{کشف شبکه}{Network Discovery}
 
-
-\vspace*{3mm}
-{\bf ل}
-%%\vspace*{3mm}
 \farsiTOenglish{لایه کاربرد}{Application layer}
 \farsiTOenglish{لینوکس}{Linux}
-
-\vspace*{3mm}
-{\bf م}
-%%\vspace*{3mm}
 
 \farsiTOenglish{ماشین مجازی}{Virtual Machine (VM)}
 \farsiTOenglish{متفرقه}{Other}
@@ -159,11 +66,6 @@
 \farsiTOenglish{موتور جاوا اسکریپت وی هشت}{V8 JavaScript engine}
 \farsiTOenglish{مورد آزمون}{Test case}
 \farsiTOenglish{میزبان}{Host}
-
-
-\vspace*{3mm}
-{\bf ن}
-%%\vspace*{3mm}
 
 \farsiTOenglish{نخ}{Thread}
 \farsiTOenglish{نرخ نمونه‌برداری}{Rate}
@@ -177,22 +79,8 @@
 \farsiTOenglish{نیازمندی‌های غیرکارکردی}{Non functional requirements}
 \farsiTOenglish{نیازمندی‌های کارکردی}{Functional requirements}
 
-
-\vspace*{3mm}
-{\bf و}
-%%\vspace*{3mm}
-
-\farsiTOenglish{ویو جی‌اس}{Vue.js}
-
-
-\vspace*{3mm}
-{\bf ه}
-%%\vspace*{3mm}
-
 \farsiTOenglish{هگزادسیمال}{Hexadecimal}
 \farsiTOenglish{همه‌پخشی}{Broadcast}
 \farsiTOenglish{همه‌جانبه}{Full Stack}
 
-
-
-\end{multicols*}
+\farsiTOenglish{ویو جی‌اس}{Vue.js}
